@@ -1,1 +1,0 @@
-# SSVid-Policy
