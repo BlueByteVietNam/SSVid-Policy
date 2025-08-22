@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - tomp3</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f5f5f5;
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: white;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        
+        h1 {
+            color: #2c3e50;
+            font-size: 2.5em;
+            margin-bottom: 30px;
+            text-align: center;
+            border-bottom: 3px solid #3498db;
+            padding-bottom: 15px;
+        }
+        
+        h2 {
+            color: #34495e;
+            font-size: 1.5em;
+            margin-top: 30px;
+            margin-bottom: 15px;
+            padding-left: 10px;
+            border-left: 4px solid #3498db;
+        }
+        
+        p {
+            margin-bottom: 15px;
+            text-align: justify;
+        }
+        
+        ul, ol {
+            margin-left: 30px;
+            margin-bottom: 15px;
+        }
+        
+        li {
+            margin-bottom: 8px;
+        }
+        
+        .section {
+            margin-bottom: 30px;
+        }
+        
+        .highlight {
+            background-color: #fff3cd;
+            padding: 15px;
+            border-left: 4px solid #ffc107;
+            margin: 20px 0;
+        }
+        
+        .contact-info {
+            background-color: #e8f4f8;
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 30px;
+        }
+        
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        
+        a:hover {
+            text-decoration: underline;
+        }
+        
+        .last-updated {
+            text-align: center;
+            color: #7f8c8d;
+            font-style: italic;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #e0e0e0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>PRIVACY POLICY</h1>
+        
+        <div class="section">
+            <p>Here at tomp3 Office, doing business as tomp3 ("Company," "we," "us," "our"), we know that our users care about how your personal information is used and shared. We take your privacy seriously. Please read the following to learn more about our Privacy Policy.</p>
+            
+            <p>By visiting or using the Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, process and share your information as described herein.</p>
+        </div>
+
+        <div class="section">
+            <h2>I. PRIVACY PRINCIPLES</h2>
+            <p>This Privacy Policy reflects the following three principles that we strive to uphold in providing you with the services on our Services:</p>
+            <ul>
+                <li>We will only collect information that helps us to improve our Services;</li>
+                <li>You may provide and we only collect information that can identify you personally ("Personal Information") in order to provide the Services;</li>
+                <li>Our privacy practices will be transparent to you.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>II. WHAT DOES THIS PRIVACY POLICY COVER?</h2>
+            <p>This Privacy Policy covers our treatment of information that we gather when you are accessing or using our Services. This policy does not apply to the practices of companies that we do not own or control (including, without limitation, the third party content providers from whom you may receive content through the Services), or to individuals that we do not employ or manage.</p>
+            
+            <div class="highlight">
+                <strong>Important:</strong> Company does not knowingly collect or solicit Personal Information from anyone under the age of 13. If you are under 13, please do not attempt to register for the Website or send any information about yourself to us.
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>III. WHAT INFORMATION DOES tomp3 COLLECT?</h2>
+            <p>The information we collect can be generally placed in two categories:</p>
+            <ol>
+                <li>Data on how the user uses our Services</li>
+                <li>Aggregate data on content the user engages with</li>
+            </ol>
+            
+            <p><strong>Examples of data we collect:</strong></p>
+            <ul>
+                <li>IP address and cookie information</li>
+                <li>Services usage data (version, features used, download statistics)</li>
+                <li>Data on the quality of our Services (crashes, connection information)</li>
+                <li>Aggregate statistics on content</li>
+                <li>Hardware and software identification</li>
+            </ul>
+            
+            <p><strong>We do NOT collect:</strong></p>
+            <ul>
+                <li>Your phone number</li>
+                <li>Your friends' phone numbers</li>
+                <li>Content of your text messages</li>
+                <li>Your music, photos, or videos</li>
+                <li>The content you download via Company</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>IV. DO WE DISCLOSE THE INFORMATION WE COLLECT TO OUTSIDE PARTIES?</h2>
+            <p>We may release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.</p>
+        </div>
+
+        <div class="section">
+            <h2>V. DISCLAIMER REGARDING SECURITY AND THIRD PARTY SITES</h2>
+            <p>WE DO NOT GUARANTEE THE SECURITY OF PERSONAL INFORMATION OR OTHER INFORMATION IN ANY FORM. We do implement a variety of security measures to maintain the safety of your Personal Information. Your Personal Information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems.</p>
+        </div>
+
+        <div class="section">
+            <h2>VI. ARE YOU VISITING OUR SITE FROM OUTSIDE THE UNITED STATES?</h2>
+            <p>If you are visiting our web site from outside of the USA, please be aware that your Personal Information may be transferred to, stored or processed in the USA, where our servers are located and our central database is operated.</p>
+        </div>
+
+        <div class="section">
+            <h2>VII. CHANGES TO THIS PRIVACY POLICY</h2>
+            <p>We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes, we will notify you by posting an announcement on our Website or sending you an email.</p>
+        </div>
+
+        <div class="section">
+            <h2>VIII. HOW CAN YOU OPT-OUT, REMOVE OR MODIFY INFORMATION?</h2>
+            <p>To modify your email subscriptions or delete your account information, please contact us at the email address provided below. Please note that we may maintain information about individual sales transactions for service and record keeping purposes.</p>
+        </div>
+
+        <div class="section">
+            <h2>IX. CONSENT TO ELECTRONIC NOTICE</h2>
+            <p>If we are required to provide notice of unauthorized access or other invasion of certain security systems, you agree that we may do so by posting notice on our web site or sending notice to any email address we have for you.</p>
+        </div>
+
+        <div class="contact-info">
+            <h2>Contact Us</h2>
+            <p>If you have any questions about this Privacy Policy, please contact us at:</p>
+            <p>Email: <a href="mailto:info@ssvid.net">info@ssvid.net</a></p>
+
+        </div>
+
+        <div class="last-updated">
+            <p>This Privacy Policy was last updated and is effective as of the date you access this page.</p>
+        </div>
+    </div>
+</body>
+</html>
